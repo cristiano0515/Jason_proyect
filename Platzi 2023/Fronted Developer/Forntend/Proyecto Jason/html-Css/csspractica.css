@@ -1,0 +1,88 @@
+body{
+    background-color: #2471A3;
+}
+.font{
+ justify-content: center;
+ display: flex;
+}
+
+.borde {
+    background: #0c2636;
+    width: 500px;
+    height: 700px;
+    border-radius: 20px;
+   overflow: hidden;
+}
+.borde img{
+    width: 500px;
+    height: 300px;
+}
+.perfil{
+    
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 100px;
+    margin-top: -80px;
+    margin-left: 150px;
+}
+
+.perfil img{
+    width: 200px;
+    height: 200px;
+   
+}
+
+.estructura{
+    font-family: Arial, sans-serif;
+    margin-left: 75px;
+    color: #D6EAF8;
+    font-size: 15px;
+}
+.estructura p{
+    font-family:Arial, sans-serif;
+    margin-left: 100px;
+    font-size: 25px;
+    margin-top: -10px;
+    
+}
+
+.redes{
+    overflow: hidden;
+    justify-content: center;
+    
+}
+
+.face img{
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+    margin-left: 100px;   
+}
+
+.insta img{
+    width: 90px;
+    height: 60px;
+    overflow: hidden;
+    margin-left: 180px;
+    margin-top: 40px;
+    justify-content: center;
+}
+.twitter img{
+    width: 50px;
+    height: 50px;
+    display: flex;
+    overflow: hidden;
+    margin-left: 180px;
+    margin-top: -50px;
+    
+}
+.link img{
+    width: 85px;
+    height: 55px;
+    margin-left: 240px;  
+    margin-top: -200px;
+    
+}
